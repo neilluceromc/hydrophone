@@ -4,7 +4,7 @@
             "outputFile": "com.mycompany.hydrophone.app-mergeDebugResources-9:/values-v31/values-v31.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\neill\\Documents\\hydrophone\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "source": "C:\\Users\\neill\\Documents\\hydrophone\\hydrophone\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
