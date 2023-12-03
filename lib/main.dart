@@ -34,7 +34,7 @@ class _MyAppState extends State<MyApp> {
 
   late AppStateNotifier _appStateNotifier;
   late GoRouter _router;
-
+//dart pub get comment
   @override
   void initState() {
     super.initState();
